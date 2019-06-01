@@ -1,0 +1,26 @@
+
+
+Version:	3.10
+CmdLine:	C:\Users\Lugue\Documents\NetBeansProjects\CodigoQR\Generador de codigosQR.exe --l4j-debug
+WOW64:		no
+Java min ver:	1.0.0
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_144
+Check launcher:	C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe (OK)
+Match:		1.8.0_144
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_144
+Ignore:		1.8.0_144
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.8.0_144 (32-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_144\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Lugue\Documents\NetBeansProjects\CodigoQR\Generador de codigosQR.exe"
+Args length:	84/32768 chars
+Exit code:	0
